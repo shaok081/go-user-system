@@ -8,3 +8,10 @@
 - JWT认证
 - 用户列表
 - 删除用户
+
+## 技术栈
+- Golang
+- Gin
+- Gorm
+- MySQL
+- JWT
